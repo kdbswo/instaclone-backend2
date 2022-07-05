@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/kdbswo/instaclone-backend2/issues"
   },
-  "homepage": "https://github.com/kdbswo/instaclone-backend2#readme"
+  "homepage": "https://github.com/kdbswo/instaclone-backend2#readme",
+  "dependencies": {
+    "apollo-server": "^2.25.2",
+    "graphql": "^15.4.0"
+  }
 }
